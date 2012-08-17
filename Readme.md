@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ component install component/regexps
+    $ component install component/countries
 
 ## API
 
