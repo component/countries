@@ -1,4 +1,5 @@
-module.exports =  [ { name: 'Afghanistan',
+module.exports =  [ 
+  { name: 'Afghanistan',
     alpha2Code: 'AF',
     alpha3Code: 'AFG',
     numericCode: '004' },
