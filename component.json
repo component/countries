@@ -1,7 +1,7 @@
 {
   "name": "countries",
   "description": "List of countries and their associated codes",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["country", "countries", "list"],
   "dependencies": {},
   "scripts": [
