@@ -11,17 +11,21 @@
 ```js
 modules.exports = [
   { name: 'Afghanistan',
-    alpha2Code: 'AF',
-    alpha3Code: 'AFG',
-    numericCode: 4 },
+    alpha: 'AF',
+    alpha3: 'AFG',
+    numeric: 4 },
   { name: 'Åland',
-    alpha2Code: 'AX',
-    alpha3Code: 'ALA',
-    numericCode: 248 },
+    alpha: 'AX',
+    alpha3: 'ALA',
+    numeric: 248 },
   { name: 'Albania',
-    alpha2Code: 'AL',
-    alpha3Code: 'ALB',
-    numericCode: 8 },
+    alpha: 'AL',
+    alpha3: 'ALB',
+    numeric: 8 },
+  { name: 'Algeria',
+    alpha: 'DZ',
+    alpha3: 'DZA',
+    numeric: 12 },
 ...
 ```
 
